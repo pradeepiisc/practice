@@ -153,3 +153,10 @@ models/
 *.pkl.zip
 *.h5
 *.pth
+
+
+# Pycharm files 
+
+.idea/*
+.idea/
+
